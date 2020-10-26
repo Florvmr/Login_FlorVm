@@ -1,0 +1,33 @@
+body{
+  background: #b3c3a4;
+
+  }
+  .principal1{
+  text-decoration: underline;
+  justify-content: center;
+  align-items: center;
+  margin-right:auto;
+  margin-left: auto;
+  font-family: sans-serif;
+  font-size: px;
+  font-family: 400px;
+  margin-top: 60px;
+  width: 700px;
+  height: 350px;
+  background: linear-gradient(to bottom right, rgb(228, 91, 231), rgba(255, 255, 255, 0.03), rgb(238, 14, 155));
+}
+.conten1{
+  border-radius: 35px;
+  justify-content: center;
+  align-items: center;
+  margin-right: 110px;
+  margin-left: 110px;
+  margin-top: 70px;
+  background: rgb(65, 213, 120);
+}
+.Flor{
+  margin-top: 70px;
+  margin-left: 43%;
+  border-radius: 18px;
+  background-color: rgb(125, 16, 124);
+}

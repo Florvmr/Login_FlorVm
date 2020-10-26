@@ -1,0 +1,20 @@
+body{
+  background:#b3c3a4;
+}
+.diseño{
+  align-items: center;
+  justify-content: center;
+  padding-top: 50px;
+  padding-left:130px;
+  padding-bottom:50px;
+  padding-right:130px ;
+  width: 50%;
+  height: 400px;
+  margin-left:340px;
+  margin-bottom: 130px;
+  margin-right: 130px;
+  margin-top: 80px;
+  color:#ffffff;
+  background:#09481c;
+  background-size: cover;
+}
